@@ -1,1 +1,1 @@
-console.log("This is a javascript file")
+console.log("This is a ss javascript file")
